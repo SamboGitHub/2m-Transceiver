@@ -6,6 +6,8 @@
  *
  * Copyright 2015 - 2018 Paul Warren <pwarren@pwarren.id.au>
  *                       Jason Milldrum <milldrum@gmail.com>
+ * 
+ * Modifications for Attenuators added by Sam Bell 2022
  *
  * Uses code from https://github.com/darksidelemm/open_radio_miniconf_2015
  * and the old version of the calibration sketch
